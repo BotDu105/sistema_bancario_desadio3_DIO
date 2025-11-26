@@ -3,6 +3,7 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 
 
+
 class ContasIterador:
     def __init__(self, contas):
         self.contas = contas
